@@ -1,0 +1,8 @@
+{
+  "name": "Dosinha",
+  "version": "1.0.0",
+  "description": "jogo para beber com os amigos",
+  "main": "index.js",
+  "author": "gabriel ferreira dos santos",
+  "license": "MIT"
+}
